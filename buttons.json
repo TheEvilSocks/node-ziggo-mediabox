@@ -1,0 +1,160 @@
+[{
+	"name": "POWER",
+	"code": "e000"
+},
+{
+	"name": "OK",
+	"code": "e001"
+},
+{
+	"name": "BACK",
+	"code": "e002"
+},
+{
+	"name": "CHAN_UP",
+	"code": "e006"
+},
+{
+	"name": "CHAN_DOWN",
+	"code": "e007"
+},
+{
+	"name": "HELP",
+	"code": "e009"
+},
+{
+	"name": "MENU",
+	"code": "e00a"
+},
+{
+	"name": "GUIDE",
+	"code": "e00b"
+},
+{
+	"name": "INFO",
+	"code": "e00e"
+},
+{
+	"name": "TEXT",
+	"code": "e00f"
+},
+{
+	"name": "MENU1",
+	"code": "e011"
+},
+{
+	"name": "MENU2",
+	"code": "e015"
+},
+{
+	"name": "DPAD_UP",
+	"code": "e100"
+},
+{
+	"name": "DPAD_DOWN",
+	"code": "e101"
+},
+{
+	"name": "DPAD_LEFT",
+	"code": "e102"
+},
+{
+	"name": "DPAD_RIGHT",
+	"code": "e103"
+},
+{
+	"name": "NUM_0",
+	"code": "e300"
+},
+{
+	"name": "NUM_1",
+	"code": "e301"
+},
+{
+	"name": "NUM_2",
+	"code": "e302"
+},
+{
+	"name": "NUM_3",
+	"code": "e303"
+},
+{
+	"name": "NUM_4",
+	"code": "e304"
+},
+{
+	"name": "NUM_5",
+	"code": "e305"
+},
+{
+	"name": "NUM_6",
+	"code": "e306"
+},
+{
+	"name": "NUM_7",
+	"code": "e307"
+},
+{
+	"name": "NUM_8",
+	"code": "e308"
+},
+{
+	"name": "NUM_9",
+	"code": "e309"
+},
+{
+	"name": "PAUSE",
+	"code": "e400"
+},
+{
+	"name": "STOP",
+	"code": "e402"
+},
+{
+	"name": "RECORD",
+	"code": "e403"
+},
+{
+	"name": "FORWARD",
+	"code": "e405"
+},
+{
+	"name": "REWIND",
+	"code": "e407"
+},
+{
+	"name": "MENU3",
+	"code": "ef00"
+},
+{
+	"name": "UNKNOWN_0",
+	"code": "ef06"
+},
+{
+	"name": "UNKNOWN_1",
+	"code": "ef15"
+},
+{
+	"name": "UNKNOWN_2",
+	"code": "ef16"
+},
+{
+	"name": "UNKNOWN_3",
+	"code": "ef17"
+},
+{
+	"name": "UNKNOWN_4",
+	"code": "ef19"
+},
+{
+	"name": "ONDEMAND",
+	"code": "ef28"
+},
+{
+	"name": "DVR",
+	"code": "ef29"
+},
+{
+	"name": "TV",
+	"code": "ef2a"
+}]
