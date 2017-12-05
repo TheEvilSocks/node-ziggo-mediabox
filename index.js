@@ -155,4 +155,13 @@ MediaBox.prototype.pressButtonHex = function(hex) {
 };
 
 
+/**
+ * Hello, am I connected to this thing?
+ * @return {Boolean}
+ */
+MediaBox.prototype.isConnected = function() {
+	return (this.client !== undefined && this.client !== null) ? (this.client.connecting ? false : !this.client.destroyed) : false;
+};
+
+
 module.exports = MediaBox;
