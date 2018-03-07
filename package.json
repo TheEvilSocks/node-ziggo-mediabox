@@ -1,0 +1,28 @@
+{
+  "name": "ziggo-mediabox",
+  "version": "1.0.0",
+  "description": "Control your Ziggo MediaBox XL using NodeJS ",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheEvilSocks/node-ziggo-mediabox.git"
+  },
+  "keywords": [
+    "node",
+    "ziggo",
+    "mediabox",
+    "xl"
+  ],
+  "author": "TheEvilSocks",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TheEvilSocks/node-ziggo-mediabox/issues"
+  },
+  "homepage": "https://github.com/TheEvilSocks/node-ziggo-mediabox#readme"
+}
